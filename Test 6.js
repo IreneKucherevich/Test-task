@@ -1,0 +1,1 @@
+let regexp = /Softeq(?=.*\#rules)|\#rules(?=.*Softeq)|(?<=\#rules).*Softeq|(?<=Softeq).*\#rules/g
